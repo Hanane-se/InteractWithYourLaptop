@@ -1,5 +1,7 @@
 # InteractWithYourLaptop
 Diverse shell scripts to run c programs, install packages and applications and manage files using commands such as find/echo/cp... 
+## EX1
+Simple shell script manipulating variables and comparing its arguments
 ## Ex2
 ### Q1
 Write a simple script that will check if exactly two arguments are passed. If so, display the arguments in reverse order.
