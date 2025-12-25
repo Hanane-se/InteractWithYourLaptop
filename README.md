@@ -7,6 +7,7 @@ Write a simple script that will check if exactly two arguments are passed. If so
 Write a short script that accepts an argument. If an argument is passed, check if this argument matches the name of the current directory. If so, display yes. Otherwise, display no.
 ### Q3
 Write a script that will make backup copies of all files ending in .txt in a subdirectory defined in the first argument.
+
 ![lscommand](./images/ls.png)
 ### Q4
 Write a script that grants execution rights to the owner for all scripts ending in .sh in a directory defined in the first argument.
